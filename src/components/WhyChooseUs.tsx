@@ -107,7 +107,7 @@ export function WhyChooseUs() {
           className="text-center mt-16"
         >
           <a
-            href="https://wa.me/254738978509?text=Hi!%20I%27d%20like%20to%20learn%20more%20about%20your%20products."
+            href="https://wa.me/254789920978?text=Hi!%20I%27d%20like%20to%20learn%20more%20about%20your%20products."
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-3 btn-whatsapp px-10 py-4 rounded-full text-lg font-semibold"

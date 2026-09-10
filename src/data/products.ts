@@ -135,10 +135,10 @@ export const products: Product[] = [
   }
 ];
 
-export const PHONE_NUMBER = "+254738978509";
-export const WHATSAPP_LINK = `https://wa.me/254738978509`;
+export const PHONE_NUMBER = "+254789920978";
+export const WHATSAPP_LINK = `https://wa.me/254789920978`;
 
 export const getWhatsAppOrderLink = (productName: string) => {
   const message = encodeURIComponent(`Hi! I'm interested in ordering ${productName} from Maisha Mabati. Please provide more details.`);
-  return `https://wa.me/254738978509?text=${message}`;
+  return `https://wa.me/254789920978?text=${message}`;
 };

@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import { Phone, Mail, MapPin } from "lucide-react";
 import logo from "@/assets/logo.png";
-import { PHONE_NUMBER, products } from "@/data/products";
+import { PHONE_NUMBER, WHATSAPP_LINK, products } from "@/data/products";
 
 export function Footer() {
   return (
@@ -19,7 +19,7 @@ export function Footer() {
             </p>
             <div className="flex gap-4">
               <a
-                href="https://wa.me/254738978509"
+                href={WHATSAPP_LINK}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 bg-whatsapp/20 rounded-full flex items-center justify-center hover:bg-whatsapp transition-colors"

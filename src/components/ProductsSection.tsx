@@ -48,7 +48,7 @@ export function ProductsSection() {
             Can't find what you're looking for?
           </p>
           <a
-            href="https://wa.me/254738978509?text=Hi!%20I%20need%20help%20finding%20the%20right%20roofing%20product."
+            href="https://wa.me/254789920978?text=Hi!%20I%20need%20help%20finding%20the%20right%20roofing%20product."
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 btn-whatsapp px-8 py-3 rounded-full font-semibold"
